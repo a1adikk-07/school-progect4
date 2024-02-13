@@ -1,0 +1,47 @@
+.body {
+  padding: 10px 20px;
+  background-color: #d7d7f9;
+}
+
+p {
+  margin-bottom: 40px;
+}
+
+.introduction {
+  font-family: monospace;
+  font-weight: 550;
+  font-size: 19px;
+}
+
+.apple {
+  font-family: monospace;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.red {
+  font-family: monospace;
+  color: red;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.blue {
+  font-family: monospace;
+  color: blue;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.green {
+  font-family: monospace;
+  color: green;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.purple {
+  font-family: monospace;
+  color: purple;
+  font-size: 17px;
+}
