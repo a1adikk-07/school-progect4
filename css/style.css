@@ -1,47 +1,51 @@
 .body {
-  padding: 10px 20px;
+  padding: 10px 97px;
   background-color: #d7d7f9;
 }
 
 p {
-  margin-bottom: 40px;
+  margin-bottom: 64px;
 }
 
 .introduction {
   font-family: monospace;
   font-weight: 550;
-  font-size: 19px;
+  font-size: 38px;
 }
 
 .apple {
   font-family: monospace;
-  font-size: 17px;
+  font-size: 32px;
   font-weight: 600;
 }
 
 .red {
   font-family: monospace;
   color: red;
-  font-size: 17px;
+  font-size: 32px;
   font-weight: 600;
 }
 
 .blue {
   font-family: monospace;
   color: blue;
-  font-size: 17px;
+  font-size: 32px;
   font-weight: 600;
 }
 
 .green {
   font-family: monospace;
   color: green;
-  font-size: 17px;
+  font-size: 32px;
   font-weight: 600;
 }
 
 .purple {
   font-family: monospace;
   color: purple;
-  font-size: 17px;
+  font-size: 32px;
+}
+
+.text {
+  font-size: 29px;
 }
